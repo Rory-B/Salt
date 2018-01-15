@@ -1,0 +1,2 @@
+zerotier
+pkg install
