@@ -81,6 +81,7 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias sol='sudo zerotier-cli join 8bd5124fd6ee9614'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
