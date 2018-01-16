@@ -1,6 +1,6 @@
-/root/.bashrc:
+/root/etc/hostname:
   file.managed:
 	- user: root
 	- group: root
 	- mode: 0644
-	- source: salt//bashrc/bashrc
+	- source: salt//hostname/hostname
